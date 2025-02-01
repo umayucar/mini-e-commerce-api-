@@ -15,8 +15,8 @@ Bu proje, Laravel framework'ü kullanılarak geliştirilmiş bir mini e-ticaret 
 
 1. Projeyi klonlayın:
    ```bash
-   git clone https://github.com/kullaniciAdi/mini-e-ticaret-api.git
-   cd mini-e-ticaret-api
+   git clone https://github.com/umayucar/mini-e-ticaret-api-.git
+   cd mini-e-ticaret-api-
    ```
 
 2. Bağımlılıkları yükleyin:
