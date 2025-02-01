@@ -182,4 +182,8 @@ Laravel’in Service Container yapısı kullanılarak repository ve service sın
 ## Event & Listener Kullanımı 
 - **CartTotalCalculated** event’i, sepet toplamı hesaplandığında tetiklenmektedir.
 - **CartTotalLoggerListener** sınıfı, bu eventi loglamak için kullanılmaktadır.
+ 
 
+### Postman API Dokümanı 
+Postman üzerinden API'yi test etmek için aşağıdaki dokümana göz atabilirsiniz:
+[Postman API Dokümanı](https://documenter.getpostman.com/view/27989363/2sAYX3q36i#47f02d47-48a3-480f-b1d9-1a614190188b)
